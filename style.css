@@ -14,11 +14,11 @@ header {
 }
 #quote-container {
     background: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
+    padding: 60px;
+    border-radius: 85px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     text-align: center;
-    width: 300px;
+    width: 350px;
 }
 #quote {
     color: #000000;
@@ -26,7 +26,7 @@ header {
     margin-bottom: 20px;
 }
 button {
-    background-color: #ff6a00;
+    background-color: #FF7300;
     color: white;
     border: none;
     padding: 10px 20px;
