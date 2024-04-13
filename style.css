@@ -10,7 +10,7 @@ body {
 }
 header {
     margin-bottom: 20px;
-    color: #2c3e50;
+    color: #ffffff;
 }
 #quote-container {
     background: #ffffff;
@@ -21,7 +21,7 @@ header {
     width: 300px;
 }
 #quote {
-    color: #34495e;
+    color: #000000;
     font-size: 16px;
     margin-bottom: 20px;
 }
